@@ -1,0 +1,2 @@
+can be defined as a network of computers working together to perform a task that would rather be difficult for a single machine.
+All machines on that network work under the same protocol to act as a virtual supercomputer.
